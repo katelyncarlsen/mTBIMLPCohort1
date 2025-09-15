@@ -53,4 +53,6 @@ Notes: Upper left corner: true positive; upper right corner: false positive; low
 Future developments and expansions of this MLP should seek to increase accuracy whilst maintaining precision and recall. Type II errors should be minimized, which can be done through the optimization of precision (however, recall should also be balanced in order to reduce the risk of Type I errors). Additionally, future steps should be taken to confirm external validity of the model. The workflow in Cohort 2 was not identical, so future research could seek to replicate the workflow seen here more accurately in Cohort 2's model.  
 
 Link to Datasets:
-https://datadryad.org/dataset/doi:10.5061/dryad.559907q
+https://datadryad.org/dataset/doi:10.5061/dryad.559907q  
+Link to study where networks deployed:
+https://docs.google.com/document/d/1jEtMAgtlKWKamzhPKkx_7q6fxsLvOcL7hpjEeVZ624Y/edit?usp=sharing
